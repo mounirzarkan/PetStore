@@ -413,7 +413,7 @@ paths:
       responses:
         default:
           description: successful operation
-  /user/createWithList:
+  /user/create2:
     post:
       tags:
       - user
